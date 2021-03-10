@@ -1,0 +1,13 @@
+C:\Users\daeby\source\repos\Memory\Memory\bin\Debug\netcoreapp3.1\Memory.exe
+C:\Users\daeby\source\repos\Memory\Memory\bin\Debug\netcoreapp3.1\Memory.deps.json
+C:\Users\daeby\source\repos\Memory\Memory\bin\Debug\netcoreapp3.1\Memory.runtimeconfig.json
+C:\Users\daeby\source\repos\Memory\Memory\bin\Debug\netcoreapp3.1\Memory.runtimeconfig.dev.json
+C:\Users\daeby\source\repos\Memory\Memory\bin\Debug\netcoreapp3.1\Memory.dll
+C:\Users\daeby\source\repos\Memory\Memory\bin\Debug\netcoreapp3.1\Memory.pdb
+C:\Users\daeby\source\repos\Memory\Memory\obj\Debug\netcoreapp3.1\Memory.csprojAssemblyReference.cache
+C:\Users\daeby\source\repos\Memory\Memory\obj\Debug\netcoreapp3.1\Memory.AssemblyInfoInputs.cache
+C:\Users\daeby\source\repos\Memory\Memory\obj\Debug\netcoreapp3.1\Memory.AssemblyInfo.cs
+C:\Users\daeby\source\repos\Memory\Memory\obj\Debug\netcoreapp3.1\Memory.csproj.CoreCompileInputs.cache
+C:\Users\daeby\source\repos\Memory\Memory\obj\Debug\netcoreapp3.1\Memory.dll
+C:\Users\daeby\source\repos\Memory\Memory\obj\Debug\netcoreapp3.1\Memory.pdb
+C:\Users\daeby\source\repos\Memory\Memory\obj\Debug\netcoreapp3.1\Memory.genruntimeconfig.cache
